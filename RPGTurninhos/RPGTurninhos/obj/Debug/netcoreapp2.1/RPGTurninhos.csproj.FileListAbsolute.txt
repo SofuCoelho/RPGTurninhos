@@ -1,0 +1,13 @@
+E:\Poo\RPGTurninhos\RPGTurninhos\bin\Debug\netcoreapp2.1\RPGTurninhos.deps.json
+E:\Poo\RPGTurninhos\RPGTurninhos\bin\Debug\netcoreapp2.1\RPGTurninhos.runtimeconfig.json
+E:\Poo\RPGTurninhos\RPGTurninhos\bin\Debug\netcoreapp2.1\RPGTurninhos.runtimeconfig.dev.json
+E:\Poo\RPGTurninhos\RPGTurninhos\bin\Debug\netcoreapp2.1\RPGTurninhos.dll
+E:\Poo\RPGTurninhos\RPGTurninhos\bin\Debug\netcoreapp2.1\RPGTurninhos.pdb
+E:\Poo\RPGTurninhos\RPGTurninhos\obj\Debug\netcoreapp2.1\RPGTurninhos.csproj.CoreCompileInputs.cache
+E:\Poo\RPGTurninhos\RPGTurninhos\obj\Debug\netcoreapp2.1\RPGTurninhos.AssemblyInfoInputs.cache
+E:\Poo\RPGTurninhos\RPGTurninhos\obj\Debug\netcoreapp2.1\RPGTurninhos.AssemblyInfo.cs
+E:\Poo\RPGTurninhos\RPGTurninhos\obj\Debug\netcoreapp2.1\RPGTurninhos.dll
+E:\Poo\RPGTurninhos\RPGTurninhos\obj\Debug\netcoreapp2.1\RPGTurninhos.pdb
+E:\Poo\RPGTurninhos\RPGTurninhos\obj\Debug\netcoreapp2.1\RPGTurninhos.csproj.AssemblyReference.cache
+E:\Poo\RPGTurninhos\RPGTurninhos\obj\Debug\netcoreapp2.1\RPGTurninhos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Poo\RPGTurninhos\RPGTurninhos\obj\Debug\netcoreapp2.1\RPGTurninhos.genruntimeconfig.cache
