@@ -186,6 +186,7 @@ namespace RPGTurninhos
             jogadaPc = numero.Next(1, 3);
 
             if (jogadaPc == 1)
+
             {
                 Console.WriteLine("você foi atacado por uma Quara");
             }

@@ -72,7 +72,10 @@ namespace RPGTurninhos
             equipamentos[4, 4] = "8";
             equipamentos[4, 5] = "1";
 
-            equipamentos[4, 0] = "";
+            equipamentos[4, 0] = "" +
+                "" +
+                "" +
+                "";
             equipamentos[4, 1] = "armadura";
             equipamentos[4, 2] = "3";
             equipamentos[4, 3] = "1";
